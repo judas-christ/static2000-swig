@@ -26,7 +26,7 @@ Or with the API:
 ```js
 var static2000 = require('static2000');
 
-static2000({ remplateAdapter: 'static2000-swig '});
+static2000({ templateAdapter: 'static2000-swig '});
 ```
 
 ## Globals
