@@ -1,0 +1,26 @@
+{
+  "name": "static2000-swig",
+  "version": "0.1.0",
+  "description": "Swig adapter for Static2000",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/judas-christ/static2000-swig.git"
+  },
+  "keywords": [
+    "swig",
+    "static2000",
+    "static",
+    "site",
+    "generator"
+  ],
+  "author": "Daniel Hägglund",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/judas-christ/static2000-swig/issues"
+  },
+  "homepage": "https://github.com/judas-christ/static2000-swig",
+  "dependencies": {
+    "swig": "^1.4.2"
+  }
+}
